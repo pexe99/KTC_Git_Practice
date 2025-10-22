@@ -1,5 +1,5 @@
 const YeJinBio = () => {
-  return <div>YeJinBio</div>;
+  return <div>YeJinBio test</div>;
 };
 
 export default YeJinBio;
