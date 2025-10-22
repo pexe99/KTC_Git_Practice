@@ -9,7 +9,7 @@ export default function GwangHyeokBio() {
     <Main>
       <Container>
         <Header>
-          <Avatar>사진</Avatar>
+          <Avatar src="/image/profile.jpg" alt="kwanghyeok의 프로필 사진"/>
           <HeaderInfo>
             <Name>광혁 (GwangHyeok)</Name>
             <Subtitle>Frontend Engineer · React & TypeScript · UI/UX 관심</Subtitle>
@@ -143,7 +143,7 @@ const Header = styled.header`
   }
 `;
 
-const Avatar = styled.div`
+const Avatar = styled.img`
   width: 9rem;
   height: 9rem;
   border-radius: 1rem;
