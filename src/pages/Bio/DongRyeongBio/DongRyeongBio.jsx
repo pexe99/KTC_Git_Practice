@@ -93,7 +93,7 @@ const LinkButton = styled.a`
 const DongRyeongBio = () => {
   return (
     <Page>
-      <ProfileImage src={ProfileSrc} alt="Dong Ryeong" />
+      <ProfileImage src={ProfileSrc} alt="이동령 프로필 사진" />
       <Name>이동령</Name>
       <Bio>
         Frontend Developer
