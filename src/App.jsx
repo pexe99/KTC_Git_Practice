@@ -3,7 +3,7 @@ import Home from "./pages/Home/Home";
 import DongRyeongBio from "./pages/Bio/DongRyeongBio/DongRyeongBio";
 import GwangHyeokBio from "./pages/Bio/GwangHyeokBio/GwangHyeokBio";
 import MinJungBio from "./pages/Bio/MinJungBio/MinJungBio";
-import YeJinBio from "./pages/Bio/YeJinBio/DongRyeongBio";
+import YeJinBio from "./pages/Bio/YeJinBio/YeJinBio";
 
 function App() {
   return (
